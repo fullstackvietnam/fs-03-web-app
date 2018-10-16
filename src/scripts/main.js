@@ -1,2 +1,3 @@
-// Main
-console.log('FullStack Vietnam!')
+$(document).ready(function () {
+	$('.owl-carousel').owlCarousel();
+});
